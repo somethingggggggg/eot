@@ -1,0 +1,7 @@
+sprite=sprRI_Water
+visible=0
+solid=0
+persistent=0
+depth=-800
+parent=
+mask=

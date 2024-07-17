@@ -1,0 +1,7 @@
+sprite=sprS_For_S1
+visible=1
+solid=0
+persistent=1
+depth=-120
+parent=
+mask=
