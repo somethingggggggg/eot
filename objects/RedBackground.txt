@@ -1,0 +1,7 @@
+sprite=sprRedBackground
+visible=1
+solid=0
+persistent=0
+depth=651689984
+parent=
+mask=

@@ -1,0 +1,7 @@
+sprite=sprRI_SlopeGroundL
+visible=1
+solid=1
+persistent=0
+depth=-2
+parent=objSlopeParent1
+mask=sprIF_SlopeGroundLMask

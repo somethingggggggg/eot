@@ -1,0 +1,7 @@
+sprite=sprVER_Arrows1
+visible=1
+solid=0
+persistent=0
+depth=500
+parent=
+mask=

@@ -1,0 +1,7 @@
+sprite=sprExeana_Frown
+visible=1
+solid=0
+persistent=0
+depth=0
+parent=
+mask=

@@ -1,0 +1,7 @@
+sprite=sprPreKF_Spring
+visible=1
+solid=1
+persistent=0
+depth=1
+parent=Spring_Mask
+mask=

@@ -1,0 +1,7 @@
+sprite=spriIlusionSpike
+visible=1
+solid=1
+persistent=0
+depth=10
+parent=Solid_Mask
+mask=

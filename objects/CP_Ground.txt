@@ -1,0 +1,7 @@
+sprite=sprCP_Ground
+visible=1
+solid=1
+persistent=0
+depth=2
+parent=Solid_Mask
+mask=
